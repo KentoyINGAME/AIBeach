@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Kentoy/testScene.unity
+    guid: a2471d9dc8fcf7c479439245e5bc5f3b
   m_configObjects: {}
